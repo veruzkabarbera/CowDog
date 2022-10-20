@@ -1,0 +1,35 @@
+.inline-block {
+  display: inline-block;
+  background-color: white;
+  padding: 15px;
+  width: 150px;
+  text-align: center;
+}
+.header {
+  background-color: #FFC0CB;
+  padding: 5px;
+}
+.left {
+  float: left;
+  width: 30%;
+  background-color: #333333;
+  height: 500px;
+}
+.right {
+  float: left;
+  width: 70%;
+  background-color: #CCCCCC;
+  height: 500px;
+}
+.container1 {
+  text-align: center;
+  padding: 15px;
+}
+.container2 {
+  background-color: #FFC0CB;
+  padding: 15px;
+}
+.imagePlaceholder {
+  height: 250px;
+  background-color: #FFC0CB;
+}
